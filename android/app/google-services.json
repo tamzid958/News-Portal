@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178200987356",
+    "project_id": "newsportal-ba2d4",
+    "storage_bucket": "newsportal-ba2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178200987356:android:2e351f5678ff9d69cd5619",
+        "android_client_info": {
+          "package_name": "com.xilo.newsportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178200987356-rjvki0k4d5i9ooanksue70m26g3b1cmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xilo.newsportal",
+            "certificate_hash": "4ff6777f750862d0a32b5479001d9cd1b34e2790"
+          }
+        },
+        {
+          "client_id": "178200987356-v4m3lr3qup6t42o4nfn5j9h8qhqlqche.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xilo.newsportal",
+            "certificate_hash": "a11c152cf1960ad151701f2330d27cf7b0be288e"
+          }
+        },
+        {
+          "client_id": "178200987356-sv834mfvkdn5dqaeogea188j6h6jla3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7GXYfNsXhkWZHFNazns9wtwb8oJ7sN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178200987356-sv834mfvkdn5dqaeogea188j6h6jla3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
